@@ -1,0 +1,12 @@
+/*
+Gmail/Reader Tab Notifier
+by jasonkarns January 20, 2009 http://jasonkarns.com
+Highlight tabs when Gmail and Google Reader have unread items.
+*/
+
+@namespace url(http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul);
+
+/*#content tab {visibility:hidden!important;}
+#content tab > * {visibility:visible!important;}*/
+#content tab[label^='Gmail - Inbox ('] {background-color:#DA3838!important;}
+#content tab[label^='Google Reader ('] {background-color:#7478AA!important;}
