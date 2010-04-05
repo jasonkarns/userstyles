@@ -8,4 +8,5 @@ Highlight tabs when Gmail and Google Reader have unread items.
 
 #content tab[label^='Gmail - Inbox ('] {background-color:#DA3838!important;}
 #content tab[label^='Google Reader ('] {background-color:#7478AA!important;}
+#content tab[label^='Google Voice - Inbox ('] {background-color:#F1B90C!important;}
 #content tab[label*=' says']{background-color:#61D125!important;}
