@@ -8,8 +8,8 @@ A user style which highlights any open Gmail or Greader tab when there are unrea
 - Gmail tabs will flash green when a new chat message is received.
 - Google Voice tabs are highlighted yellow when the inbox is open and there are unread items (either calls or SMS)
 
-![preview](http://github.com/jasonkarns/userstyles.gtab-notifier/raw/master/before.png)
-![preview](http://github.com/jasonkarns/userstyles.gtab-notifier/raw/master/after.png)
+![preview](https://github.com/jasonkarns/userstyles.gtab-notifier/raw/master/before.png)
+![preview](https://github.com/jasonkarns/userstyles.gtab-notifier/raw/master/after.png)
 
 Installation
 ------------
