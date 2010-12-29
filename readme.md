@@ -3,7 +3,7 @@ Gmail S/MIME Icons
 
 A user style which adds icons to messages in Gmail which have been digitally signed or encrypted using S/MIME.
 
-![preview](http://github.com/jasonkarns/userstyles.gmail-smime-icons/raw/master/before-after.png)
+![preview](https://github.com/jasonkarns/userstyles.gmail-smime-icons/raw/master/before-after.png)
 
 Installation
 ------------
