@@ -1,12 +1,13 @@
 /*
 Gmail/Reader Tab Notifier
-by jasonkarns January 20, 2009 http://jasonkarns.com
-Highlight tabs when Gmail and Google Reader have unread items.
+by jasonkarns January 20, 2009 http://jason.karns.name
+Highlight tabs when Gmail (including Chat), Google Reader, Google Voice, and Facebook have unread items.
 */
 
 @namespace url(http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul);
 
 #content tab[label^='Gmail - Inbox ('] {background-color:#DA3838!important;}
-#content tab[label^='Google Reader ('] {background-color:#7478AA!important;}
+#content tab[label^='Google Reader ('] {background-color:#C2CFF1!important;}
+#content tab[label^='Facebook ('] {background-color:#3B5998!important;}
 #content tab[label^='Google Voice - Inbox ('] {background-color:#F1B90C!important;}
 #content tab[label*=' says']{background-color:#61D125!important;}
