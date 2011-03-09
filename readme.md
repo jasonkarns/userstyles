@@ -9,8 +9,10 @@ A user style which highlights any open Gmail, Google Reader, Google Voice, and F
 - Google Voice tabs are highlighted yellow when the inbox is open and there are unread items (either calls or SMS)
 - Facebook tabs are highlighted blue when there is an unread notification item.
 
+Before
 ![preview](https://github.com/jasonkarns/userstyles.gtab-notifier/raw/master/before.png)
 
+After
 ![preview](https://github.com/jasonkarns/userstyles.gtab-notifier/raw/master/after.png)
 
 Installation
