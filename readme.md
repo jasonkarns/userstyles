@@ -1,7 +1,7 @@
-GTab Notifier
+Tab Notifier
 ==================
 
-A user style which highlights any open Gmail or Greader tab when there are unread items. Works best with the [FaviconizeTab extension](https://addons.mozilla.org/en-US/firefox/addon/3780) for Firefox.
+A user style which highlights any open Gmail, Google Reader, Google Voice, and Facebook tab when there are unread items. Works best with the [FaviconizeTab extension](https://addons.mozilla.org/en-US/firefox/addon/3780) for Firefox.
 
 - Gmail tabs are highlighted red when the inbox is open and there are unread items.
 - Gmail tabs will flash green when a new chat message is received.
