@@ -11,11 +11,11 @@ A user style which highlights any open Gmail, Google Reader, Google Voice, and F
 
 Before
 
-![preview](https://github.com/jasonkarns/userstyles.gtab-notifier/raw/master/before.png)
+![preview](https://github.com/jasonkarns/userstyles/raw/master/tab_notifier/before.png)
 
 After
 
-![preview](https://github.com/jasonkarns/userstyles.gtab-notifier/raw/master/after.png)
+![preview](https://github.com/jasonkarns/userstyles/raw/master/tab_notifier/after.png)
 
 Installation
 ------------
