@@ -1,7 +1,7 @@
 Userstyles
 ===========
 
-This is my collection of userstyles for Stylish. They haven't yet been tested on Chrome or Opera but they might work.
+This is my collection of userstyles for Stylish -- a Firefox extension. They haven't yet been tested on Chrome or Opera but they might work.
 
 Feel free to [check them out at userstyles.org](http://userstyles.org/users/1866)
 
