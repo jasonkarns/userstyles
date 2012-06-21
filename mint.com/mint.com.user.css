@@ -20,4 +20,12 @@
     border: 1px solid #B2B2B2; /* #9EBCB2 */
   }
 
+  #as-nav-content div.card.closed div.card-header a.primary.button {
+    -webkit-filter: grayscale(100%);
+  }
+
+  #as-nav-content div.card.closed div.card-CS_Message {
+    background-color: #D7D7D7;
+  }
+
 }
