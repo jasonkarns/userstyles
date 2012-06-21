@@ -1,0 +1,23 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("mint.com") {
+
+  #as-nav-content div.card.closed {
+    background: -moz-linear-gradient(top, #D6D6D6, #B1B1B1); /* (top,#CBDADA,#9DBBB1) */
+    background: -webkit-gradient(linear, left top, left bottom, from(#D6D6D6), to(#B1B1B1)); /* from(#CBDADA),to(#9DBBB1) */
+    border-color: #707070; /* #637670 */
+  }
+
+  #as-nav-content div.card.closed div.card_deets {
+    border-color: #ACACAC; /* 9BB5AD */
+    background: -webkit-gradient(linear, left top, left bottom, from(#DFDFDF), to(#CACACA)); /* from(#D7E2E1),to(#BCD1CA) */
+    background: -moz-linear-gradient(top, #DFDFDF, #CACACA); /* (top,#D7E2E1,#BCD1CA) */
+  }
+
+  #as-nav-content div.card.closed div.card-controls a.button.editlogin,
+  #as-nav-content div.card.closed div.card-controls a.button.delete {
+    background-color: #D6D6D6; /* #CCDBDA */
+    border: 1px solid #B2B2B2; /* #9EBCB2 */
+  }
+
+}
