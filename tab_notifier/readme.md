@@ -19,5 +19,4 @@ After
 
 Installation
 ------------
-
-For [Stylish](https://addons.mozilla.org/en-US/firefox/addon/2108), [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/748) or [Ubiquity](https://addons.mozilla.org/en-US/firefox/addon/9527) users, head over to the [userstyle homepage](http://userstyles.org/styles/14571) at [userstyles.org](http://userstyles.org).
+[Install at userstyles.org](http://userstyles.org/styles/14571)
