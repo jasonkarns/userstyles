@@ -1,0 +1,10 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("portal.cardinalsolutions.com") {
+
+  #MSOZoneCell_WebPartWPQ2 .s4-wpTopTable,
+  #WebPartWPQ2 { 
+    width: 100% !important;
+  }
+
+}
